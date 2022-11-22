@@ -3,4 +3,4 @@ Single Factor Model that attempts to hedge the price of oil for 1 month without 
 
 Filtered through 2463 US large and small cap listed companies within the S&P 500 and Russell 2000.
 
-# Requires the most recent versions of excel
+# Requires the most recent versions of Excel to view model
